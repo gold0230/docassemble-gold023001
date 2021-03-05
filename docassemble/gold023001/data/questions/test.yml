@@ -1,0 +1,12 @@
+---
+question: Here is your document.
+attachments:
+  - name: Summary of Benefits
+    filename: benefits_summary
+    content: |
+      [BOLDCENTER] Summary of Benefits
+
+      ${ client } is entitled to
+      benefits plan ${ benefits }.
+mandatory: True
+---

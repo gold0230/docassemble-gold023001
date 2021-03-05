@@ -1,0 +1,11 @@
+---
+# This question block asks the questions to drive the code block above.
+Mandatory: True
+question: 
+fields: 
+  - Please Select the Court you will be Attending: MG_court_decision
+    datatype: radio
+    choices:
+    - Yes
+    - No
+---
